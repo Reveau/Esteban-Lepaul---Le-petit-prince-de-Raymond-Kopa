@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body { 
+    font-family: "Bebas Neue", sans-serif;
+    background-color: beige
+}
+body{
+    font-weight: 200
+}
+h1 {
+    color:white ;
+    background-color: black;
+    letter-spacing: 3px;
+    text-align: center;
+    }
+h2 {
+    text-align: center;
+}
+    h3 {
+        color: white;
+        background-color: black;
+        text-align: center;
+        margin: 0 auto;
+    }
+.photo_un {
+    text-align: center;
+}
+.photo_deux {
+    text-align: center;
+}
+.photo_trois {
+    text-align: center;
+}
+    .centre_destin {
+        text-align: center;
+    } 
+    .button-black {
+        color: white;
+        background-color: black;
+        border-radius: 8px;
+        text-decoration:none ;
+        font-weight: bold;
+        display: block;
+        width: 80px;
+        margin: 0 auto;
+    }
+    .button-black:hover {
+        background-color: white;
+        color: black;
+    }
+.card-white {
+    text-align: center;
+    background-color: grey;
+    margin: 10px auto;
+    padding: 16px;
+    box-shadow: 0px 0px 20px 10px;
+}
+i {
+    font-size: 48px;
+    color: rgb(3, 3, 3);
+}
+.photos {
+    text-align: center;
+}
+.lien {
+    display: inline;
+    padding: 0;
+    text-align: center;
+    justify-content: space-between;
+    margin: 0px 16px;
+}
+
+.inline-list li {
+    display: inline;
+    margin: 0 12px;
+}
+
+.inline-list {
+    padding: 0;
+}
